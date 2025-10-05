@@ -1,0 +1,11 @@
+black
+flake8
+numpy
+pandas
+plotly
+matplotlib
+seaborn
+scikit-learn
+scipy
+imbalanced-learn
+ipykernel
