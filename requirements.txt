@@ -9,3 +9,4 @@ scikit-learn
 scipy
 imbalanced-learn
 ipykernel
+jinja2
