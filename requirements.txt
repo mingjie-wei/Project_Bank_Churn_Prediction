@@ -10,3 +10,4 @@ scipy
 imbalanced-learn
 ipykernel
 jinja2
+nbformat>=4.2.0
